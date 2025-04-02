@@ -69,7 +69,7 @@ If you want to retrain the model:
 
 ## 👨‍💻 Contributors
 - [Sahil Jain](https://github.com/sahilj4in)
-
+- [Tanishq Soni](https://github.com/Tanishq-07)
 ---
 Let me know if you need any modifications! 🚀
 
