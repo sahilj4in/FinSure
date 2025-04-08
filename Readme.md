@@ -1,7 +1,7 @@
 # FinSure - Loan Approval Prediction
 
 ## 🚀 Project Overview
-LoanEase is a **machine learning-based loan approval prediction system** that helps assess whether a loan applicant is likely to be approved or rejected. Using a trained **Random Forest model**, the system predicts loan eligibility based on key financial and demographic factors such as income, credit history, and employment status.
+FinSure is a **machine learning-based loan approval prediction system** that helps assess whether a loan applicant is likely to be approved or rejected. Using a trained **Random Forest model**, the system predicts loan eligibility based on key financial and demographic factors such as income, credit history, and employment status.
 
 ## 🛠️ Technologies Used
 - **Python (Flask)** - Backend web framework
@@ -34,7 +34,7 @@ LoanEase/
 ## 📌 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/LoanEase.git
+git clone https://github.com/yourusername/FinSure.git
 cd LoanEase
 ```
 
