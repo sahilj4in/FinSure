@@ -1,4 +1,4 @@
-# LoanEase - Loan Approval Prediction
+# FinSure - Loan Approval Prediction
 
 ## 🚀 Project Overview
 LoanEase is a **machine learning-based loan approval prediction system** that helps assess whether a loan applicant is likely to be approved or rejected. Using a trained **Random Forest model**, the system predicts loan eligibility based on key financial and demographic factors such as income, credit history, and employment status.
